@@ -1,0 +1,30 @@
+body {
+background-color: lightblue;
+}
+h1 {
+color: white;
+text-align: center;
+font-family: Bodoni MT Black
+}
+
+h1 {
+color: purple
+
+}
+p {
+font-family: verdana;
+font-size: 20px;
+}
+a {
+  font-size: 20px;
+  font-family: Lobster
+}
+A:link {color: #EE210B}
+A:visited {color: purple}
+A:active {color: blue}
+A:hover {color: purple;}
+
+A:link {text-decoration: none}
+A:visited {text-decoration: none}
+A:active {text-decoration: none}
+A:hover {text-decoration: underline overline; color: orange;}
